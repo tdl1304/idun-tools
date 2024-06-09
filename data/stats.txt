@@ -1,0 +1,7 @@
+sfm approach                    images found
+=============================================
+gnss+hloc-disk:                 290/314
+gnss:                           314/314
+ns-process-default:             70/310
+ns-process--superpoint-aachen:  3/306
+ns-process-disk:                2/306
